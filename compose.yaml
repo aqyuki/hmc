@@ -1,6 +1,6 @@
 services:
   minecraft:
-    container_name: Minecraft Server
+    container_name: PaperMC
     image: itzg/minecraft-server
     tty: true
     stdin_open: true
