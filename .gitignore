@@ -1,2 +1,9 @@
 # minecraft data
-data/
+/data/*
+/data/plugins/*
+/data/plugins/eBackup/*
+
+# plugin settings
+!/data/plugins/
+!/data/plugins/eBackup/
+!/data/plugins/eBackup/config.yml
